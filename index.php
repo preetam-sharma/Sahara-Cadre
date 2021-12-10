@@ -1,0 +1,9 @@
+<?php include 'head.php';?>
+<?php include 'header.php';?>
+<?php include 'banner.php';?>
+<?php include 'feature_content.php';?>
+<?php include 'about_content.php';?>
+<?php include 'counter.php';?>
+<?php include 'testinomial.php';?>
+<?php include 'blog_content.php';?>
+<?php include 'footer.php';?>
